@@ -12,7 +12,7 @@ This project implements a negotiation system powered by AI agents, designed to s
 
 🔹 Key Components
 
-1. Buyer Agent (YourBuyerAgent)
+1. Buyer Agent
 
 Represents a pragmatic, analytical buyer.
 
@@ -28,7 +28,7 @@ Decision strategies include accepting fair offers, making counteroffers, or reje
 
 
 
-2. Seller Agent (Mock Seller)
+2. Seller Agent 
 
 Simulates a seller who starts with a high opening price (typically 1.5× market price).
 
@@ -117,6 +117,7 @@ Output - Seller agent:
 
 
 ![WhatsApp Image 2025-08-18 at 22 31 10_5acbffdc](https://github.com/user-attachments/assets/43721f07-5a57-40c9-9151-00e82b0cd40a)
+
 
 
 
